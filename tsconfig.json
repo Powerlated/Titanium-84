@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "module": "AMD",
+        "target": "ES2020",
+        "noFallthroughCasesInSwitch": true,
+        "outFile": "src/tsc-out.js"
+    },
+    "include": ["src/"]
+}

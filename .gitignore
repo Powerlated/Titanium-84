@@ -1,0 +1,4 @@
+src/frontend/**/*.js
+src/core/**/*.js
+src/tsc-out.js
+dist/
